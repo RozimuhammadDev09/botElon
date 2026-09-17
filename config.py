@@ -7,7 +7,7 @@ o'zgartirishingiz mumkin — boshqa fayllarga tegishning hojati yo'q.
 from pathlib import Path
 
 # ==================== BOT ====================
-TOKEN = "8212255968:AAGT8vMZo87J1Kdm73ejbv23TfBEwlEqY9o"
+TOKEN = "8212255968:AAG_FkxDvbzP7qf6m3rbuliF_EXD_54aGks"
 BOT_USERNAME = "RishtonBuvaydaBogdod_bot"  # @ belgisiz
 
 # ==================== ADMIN ====================
